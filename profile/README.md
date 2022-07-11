@@ -50,6 +50,7 @@ para vê-los!
 * [pythonDecorators](https://github.com/CTISM-Prof-Henry/pythonDecorators)
 * [pythonScopes](https://github.com/CTISM-Prof-Henry/pythonScopes)
 * [pythonSnake](https://github.com/CTISM-Prof-Henry/pythonSnake)
+* [pythonCrawler](https://github.com/CTISM-Prof-Henry/pythonCrawler)
 * [kirby](https://github.com/CTISM-Prof-Henry/kirby)
 * [pythonOne](https://github.com/CTISM-Prof-Henry/pythonOne)
 * [pythonTwo](https://github.com/CTISM-Prof-Henry/pythonTwo)
