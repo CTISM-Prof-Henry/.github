@@ -16,11 +16,16 @@ para vê-los!
 ### Conceitos do git 
 
 * [gitEssentials](https://github.com/CTISM-Prof-Henry/gitEssentials) ⭐
+
+#### Atividades 
+
 * [ódio](https://github.com/CTISM-Prof-Henry/odio)
 * [menes](https://github.com/CTISM-Prof-Henry/menes)
 * [testeGithubClassroom](https://github.com/CTISM-Prof-Henry/testeGithubClassroom)
 
 ### Algoritmos e Programação
+
+#### Atividades 
 
 * [c_exercises_list_1](https://github.com/CTISM-Prof-Henry/c_exercises_list_1)
 * [c_exercises_list_2](https://github.com/CTISM-Prof-Henry/c_exercises_list_2)
@@ -30,9 +35,12 @@ para vê-los!
 * [c_exercises_project_3](https://github.com/CTISM-Prof-Henry/c_exercises_project_3)
 * [c_exercises_project_4](https://github.com/CTISM-Prof-Henry/c_exercises_project_4)
 
-## Projeto de Interfaces (front-end)
+### Projeto de Interfaces (front-end)
 
 * [webEssentials](https://github.com/CTISM-Prof-Henry/webEssentials) ⭐
+
+#### Atividades 
+
 * [webdesign](https://github.com/CTISM-Prof-Henry/webdesign)
 * [webCookies](https://github.com/CTISM-Prof-Henry/webCookies)
 * [receitinha](https://github.com/CTISM-Prof-Henry/receitinha)
@@ -40,7 +48,7 @@ para vê-los!
 * [receita-javascript](https://github.com/CTISM-Prof-Henry/receita-javascript)
 * [javascript](https://github.com/CTISM-Prof-Henry/javascript)
 
-## Desenvolvimento de Sistemas para Internet (backend)
+### Desenvolvimento de Sistemas para Internet (backend)
 
 * [pythonEssentials](https://github.com/CTISM-Prof-Henry/pythonEssentials) ⭐
 * [pythonBasic](https://github.com/CTISM-Prof-Henry/pythonBasic) ⭐
@@ -50,6 +58,10 @@ para vê-los!
 * [pythonDecorators](https://github.com/CTISM-Prof-Henry/pythonDecorators)
 * [pythonScopes](https://github.com/CTISM-Prof-Henry/pythonScopes)
 * [pythonSnake](https://github.com/CTISM-Prof-Henry/pythonSnake)
+* [pythonClasses](https://github.com/CTISM-Prof-Henry/pythonClasses)
+
+#### Atividades 
+
 * [pythonCrawler](https://github.com/CTISM-Prof-Henry/pythonCrawler)
 * [kirby](https://github.com/CTISM-Prof-Henry/kirby)
 * [pythonOne](https://github.com/CTISM-Prof-Henry/pythonOne)
