@@ -59,6 +59,7 @@ para vê-los!
 * [pythonScopes](https://github.com/CTISM-Prof-Henry/pythonScopes)
 * [pythonSnake](https://github.com/CTISM-Prof-Henry/pythonSnake)
 * [pythonClasses](https://github.com/CTISM-Prof-Henry/pythonClasses)
+* [pythonModules](https://github.com/CTISM-Prof-Henry/pythonModules)
 
 #### Atividades 
 
