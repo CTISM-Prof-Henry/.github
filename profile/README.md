@@ -27,6 +27,7 @@ para vê-los!
 
 #### Atividades 
 
+* [algorithmsAndProgramming](https://github.com/CTISM-Prof-Henry/algorithmsAndProgramming)
 * [c_exercises_list_1](https://github.com/CTISM-Prof-Henry/c_exercises_list_1)
 * [c_exercises_list_2](https://github.com/CTISM-Prof-Henry/c_exercises_list_2)
 * [c_exercises_list_3](https://github.com/CTISM-Prof-Henry/c_exercises_list_3)
