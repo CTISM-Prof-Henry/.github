@@ -32,9 +32,7 @@ para vê-los!
 * [c_exercises_list_2](https://github.com/CTISM-Prof-Henry/c_exercises_list_2)
 * [c_exercises_list_3](https://github.com/CTISM-Prof-Henry/c_exercises_list_3)
 * [c_exercises_project_1](https://github.com/CTISM-Prof-Henry/c_exercises_project_1)
-* [c_exercises_project_2](https://github.com/CTISM-Prof-Henry/c_exercises_project_2)
 * [c_exercises_project_3](https://github.com/CTISM-Prof-Henry/c_exercises_project_3)
-* [c_exercises_project_4](https://github.com/CTISM-Prof-Henry/c_exercises_project_4)
 
 ### Projeto de Interfaces (front-end)
 
