@@ -29,6 +29,7 @@ para vê-los!
 
 #### Atividades 
 
+* [cmaze](https://github.com/CTISM-Prof-Henry/cmaze)
 * [c_exercises_list_1](https://github.com/CTISM-Prof-Henry/c_exercises_list_1)
 * [c_exercises_list_2](https://github.com/CTISM-Prof-Henry/c_exercises_list_2)
 * [c_exercises_list_3](https://github.com/CTISM-Prof-Henry/c_exercises_list_3)
