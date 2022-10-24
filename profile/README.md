@@ -46,7 +46,7 @@ para vê-los!
 * [webCookies](https://github.com/CTISM-Prof-Henry/webCookies)
 * [receitinha](https://github.com/CTISM-Prof-Henry/receitinha)
 * [receitona](https://github.com/CTISM-Prof-Henry/receitona)
-* [receita-javascript](https://github.com/CTISM-Prof-Henry/receita-javascript)
+* [receitasEmJavascript](https://github.com/CTISM-Prof-Henry/receita-javascript)
 * [javascript](https://github.com/CTISM-Prof-Henry/javascript)
 * [viagensEmJavascript](https://github.com/CTISM-Prof-Henry/viagensEmJavascript)
 
