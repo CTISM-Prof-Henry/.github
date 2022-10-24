@@ -48,6 +48,7 @@ para vê-los!
 * [receitona](https://github.com/CTISM-Prof-Henry/receitona)
 * [receita-javascript](https://github.com/CTISM-Prof-Henry/receita-javascript)
 * [javascript](https://github.com/CTISM-Prof-Henry/javascript)
+* [viagensEmJavascript](https://github.com/CTISM-Prof-Henry/viagensEmJavascript)
 
 ### Desenvolvimento de Sistemas para Internet (backend)
 
