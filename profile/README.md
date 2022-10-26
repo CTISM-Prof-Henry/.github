@@ -62,6 +62,7 @@ para vê-los!
 * [pythonSnake](https://github.com/CTISM-Prof-Henry/pythonSnake)
 * [pythonClasses](https://github.com/CTISM-Prof-Henry/pythonClasses)
 * [pythonModules](https://github.com/CTISM-Prof-Henry/pythonModules) ⭐
+* [pythonSqlite](https://github.com/CTISM-Prof-Henry/pythonSqlite)
 
 #### Atividades 
 
