@@ -56,14 +56,14 @@ para vê-los!
 * [pythonEssentials](https://github.com/CTISM-Prof-Henry/pythonEssentials) ⭐
 * [pythonBasic](https://github.com/CTISM-Prof-Henry/pythonBasic) ⭐
 * [pythonRecursion](https://github.com/CTISM-Prof-Henry/pythonRecursion)
-* [pythonSelenium](https://github.com/CTISM-Prof-Henry/pythonSelenium) ⭐
-* [pythonFlask](https://github.com/CTISM-Prof-Henry/pythonFlask)
+* [pythonSelenium](https://github.com/CTISM-Prof-Henry/pythonSelenium) ⭐ 
+* [pythonFlask](https://github.com/CTISM-Prof-Henry/pythonFlask) ⭐
 * [pythonDecorators](https://github.com/CTISM-Prof-Henry/pythonDecorators)
 * [pythonScopes](https://github.com/CTISM-Prof-Henry/pythonScopes)
 * [pythonSnake](https://github.com/CTISM-Prof-Henry/pythonSnake)
 * [pythonClasses](https://github.com/CTISM-Prof-Henry/pythonClasses)
 * [pythonModules](https://github.com/CTISM-Prof-Henry/pythonModules) ⭐
-* [pythonSqlite](https://github.com/CTISM-Prof-Henry/pythonSqlite)
+* [pythonSqlite](https://github.com/CTISM-Prof-Henry/pythonSqlite) ⭐
 
 #### Atividades 
 
