@@ -23,6 +23,11 @@ para vê-los!
 * [menes](https://github.com/CTISM-Prof-Henry/menes)
 * [testeGithubClassroom](https://github.com/CTISM-Prof-Henry/testeGithubClassroom)
 
+### Projetos
+
+* [hall of smells](https://github.com/CTISM-Prof-Henry/hall-of-smells)
+* [hall of smells (site)](https://github.com/CTISM-Prof-Henry/hall-of-smells-site)
+
 ### Algoritmos e Programação
 
 * [algorithmsAndProgramming](https://github.com/CTISM-Prof-Henry/algorithmsAndProgramming)
@@ -36,6 +41,7 @@ para vê-los!
 * [c_exercises_list_3](https://github.com/CTISM-Prof-Henry/c_exercises_list_3)
 * [c_exercises_project_1](https://github.com/CTISM-Prof-Henry/c_exercises_project_1)
 * [c_exercises_project_3](https://github.com/CTISM-Prof-Henry/c_exercises_project_3)
+* [detective](https://github.com/CTISM-Prof-Henry/detective)
 
 ### Projeto de Interfaces (front-end)
 
