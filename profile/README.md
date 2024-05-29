@@ -41,7 +41,7 @@ para vê-los!
 * [c_exercises_list_3](https://github.com/CTISM-Prof-Henry/c_exercises_list_3)
 * [c_exercises_project_1](https://github.com/CTISM-Prof-Henry/c_exercises_project_1)
 * [c_exercises_project_3](https://github.com/CTISM-Prof-Henry/c_exercises_project_3)
-* [detective](https://github.com/CTISM-Prof-Henry/detective)
+* [casa_do_dragao](https://github.com/CTISM-Prof-Henry/casa_do_dragao)
 
 ### Projeto de Interfaces (front-end)
 
