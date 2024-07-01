@@ -28,6 +28,10 @@ para vê-los!
 * [hall of smells](https://github.com/CTISM-Prof-Henry/hall-of-smells)
 * [hall of smells (site)](https://github.com/CTISM-Prof-Henry/hall-of-smells-site)
 
+### Pesquisa aplicada
+
+* [research](https://github.com/CTISM-Prof-Henry/research)
+
 ### Algoritmos e Programação
 
 * [algorithmsAndProgramming](https://github.com/CTISM-Prof-Henry/algorithmsAndProgramming)
