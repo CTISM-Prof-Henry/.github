@@ -28,6 +28,10 @@ para vê-los!
 * [hall of smells](https://github.com/CTISM-Prof-Henry/hall-of-smells)
 * [hall of smells (site)](https://github.com/CTISM-Prof-Henry/hall-of-smells-site)
 
+### Engenharia de Software
+
+* [softwareEngineering](https://github.com/CTISM-Prof-Henry/softwareEngineering)
+
 ### Pesquisa aplicada
 
 * [research](https://github.com/CTISM-Prof-Henry/research)
