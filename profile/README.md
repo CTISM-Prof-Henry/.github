@@ -51,9 +51,12 @@ para vê-los!
 * [c_exercises_project_3](https://github.com/CTISM-Prof-Henry/c_exercises_project_3)
 * [casa_do_dragao](https://github.com/CTISM-Prof-Henry/casa_do_dragao)
 
-### Projeto de Interfaces (front-end)
+### Desenvolvimento frontend
+
+HTML, CSS, Javascript
 
 * [webEssentials](https://github.com/CTISM-Prof-Henry/webEssentials) ⭐
+* [indexedDB](https://github.com/CTISM-Prof-Henry/indexedDB) ⭐
 
 #### Atividades 
 
