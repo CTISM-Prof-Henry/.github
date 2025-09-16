@@ -31,6 +31,8 @@ para vê-los!
 ### Engenharia de Software
 
 * [softwareEngineering](https://github.com/CTISM-Prof-Henry/softwareEngineering)
+* [docsTutorial](https://github.com/CTISM-Prof-Henry/docsTutorial)
+* [softwareTesting](https://github.com/CTISM-Prof-Henry/softwareTesting)
 
 ### Pesquisa aplicada
 
