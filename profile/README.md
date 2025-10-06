@@ -28,16 +28,25 @@ para vê-los!
 * [hall of smells](https://github.com/CTISM-Prof-Henry/hall-of-smells)
 * [hall of smells (site)](https://github.com/CTISM-Prof-Henry/hall-of-smells-site)
 
+### Escrita científica
+
+* [research](https://github.com/CTISM-Prof-Henry/research) ⭐
+
 ### Engenharia de Software
 
-* [softwareEngineering](https://github.com/CTISM-Prof-Henry/softwareEngineering)
-* [softwareTesting](https://github.com/CTISM-Prof-Henry/softwareTesting)
-* [docsTutorial](https://github.com/CTISM-Prof-Henry/docsTutorial)
+* [softwareEngineering](https://github.com/CTISM-Prof-Henry/softwareEngineering) ⭐
+* [softwareTesting](https://github.com/CTISM-Prof-Henry/softwareTesting) ⭐
+* [docsTutorial](https://github.com/CTISM-Prof-Henry/docsTutorial) ⭐
 * [sphinxTutorial](https://github.com/CTISM-Prof-Henry/sphinxTutorial)
 
-### Pesquisa aplicada
+### Organização de computadores
 
-* [research](https://github.com/CTISM-Prof-Henry/research)
+* [computerOrganization](https://github.com/CTISM-Prof-Henry/computerOrganization) ⭐
+
+#### Atividades 
+
+* [compilerForNeander](https://github.com/CTISM-Prof-Henry/compilerForNeander)
+
 
 ### Algoritmos e Programação
 
@@ -58,8 +67,8 @@ para vê-los!
 
 HTML, CSS, Javascript
 
-* [webEssentials](https://github.com/CTISM-Prof-Henry/webEssentials) ⭐
-* [indexedDB](https://github.com/CTISM-Prof-Henry/indexedDB) ⭐
+* [webEssentials](https://github.com/CTISM-Prof-Henry/webEssentials) 
+* [indexedDB](https://github.com/CTISM-Prof-Henry/indexedDB) 
 
 #### Atividades 
 
@@ -94,11 +103,3 @@ HTML, CSS, Javascript
 * [pythonThree](https://github.com/CTISM-Prof-Henry/pythonThree)
 * [pythonFour](https://github.com/CTISM-Prof-Henry/pythonFour)
 * [pythonFive](https://github.com/CTISM-Prof-Henry/pythonFive)
-
-### Organização de computadores
-
-* [computerOrganization](https://github.com/CTISM-Prof-Henry/computerOrganization) ⭐
-
-#### Atividades 
-
-* [compilerForNeander](https://github.com/CTISM-Prof-Henry/compilerForNeander)
