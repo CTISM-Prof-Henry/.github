@@ -36,7 +36,7 @@ para vê-los!
 
 * [softwareEngineering](https://github.com/CTISM-Prof-Henry/softwareEngineering) ⭐
 * [softwareTesting](https://github.com/CTISM-Prof-Henry/softwareTesting) ⭐
-* [docsTutorial](https://github.com/CTISM-Prof-Henry/docsTutorial) ⭐
+* [mkdocsTutorial](https://github.com/CTISM-Prof-Henry/docsTutorial) ⭐
 * [sphinxTutorial](https://github.com/CTISM-Prof-Henry/sphinxTutorial)
 
 ### Organização de computadores
