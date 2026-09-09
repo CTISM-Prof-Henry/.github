@@ -16,6 +16,8 @@ para vê-los!
 ### Conceitos do git 
 
 * [gitEssentials](https://github.com/CTISM-Prof-Henry/gitEssentials) ⭐
+* [pythonPackages](https://github.com/CTISM-Prof-Henry/pythonPackages)
+* [githubWorkflows](https://github.com/CTISM-Prof-Henry/githubWorkflows)
 
 #### Atividades 
 
